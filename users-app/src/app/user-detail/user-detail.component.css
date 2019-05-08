@@ -1,9 +1,9 @@
-/* HeroDetailComponent's private CSS styles */
+/* UserDetailComponent's private CSS styles */
 label {
     display: inline-block;
     width: 3em;
-    margin: .5em 0;
-    color: #607D8B;
+    margin: 1em 2em;
+    color: rgb(166, 197, 81);
     font-weight: bold;
   }
   input {

@@ -32,4 +32,5 @@ h2 {
   button.clear {
     color: #888;
     margin-bottom: 12px;
+    width: 60px;
   }

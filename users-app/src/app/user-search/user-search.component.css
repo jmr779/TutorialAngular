@@ -10,9 +10,13 @@
     cursor: pointer;
     list-style-type: none;
   }
+
+  h4 {
+    margin-top: 200px;
+  }
    
   .search-result li:hover {
-    background-color: #607D8B;
+    background-color: rgb(139, 96, 96);
   }
    
   .search-result li a {
